@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+
+.main {
+  background-color: #eeeeee;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+#fotoPerfil {
+  border-radius: 250px;
+  width: 300px;
+}
